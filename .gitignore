@@ -2,6 +2,7 @@
 /build
 /functions
 src/config
+.package-lock.json
 
 ### Node ###
 # Logs
